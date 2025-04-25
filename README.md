@@ -56,7 +56,7 @@ Desenvolver aplicações Java modernas, seguras, testáveis e preparadas para nu
 
 ## 🧠 Autor
 
-Guilherme Serafim — [LinkedIn](https://www.linkedin.com/in/guilhermeserafim/)  
+Guilherme Serafim — [LinkedIn](https://www.linkedin.com/in/guilherme-da-silva-serafim/)  
 Apaixonado por tecnologia, arquitetura de software e soluções escaláveis ☁️⚙️
 
 ---
