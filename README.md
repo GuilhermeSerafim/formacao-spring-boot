@@ -1,6 +1,8 @@
 # 🚀 Formação Spring Boot Expert
 
-Este repositório contém os projetos e práticas desenvolvidas ao longo da formação **[ATUALIZADO 2025] Profissionalize-se em Java com Spring Boot**, que aborda desde os fundamentos até o deploy em produção com AWS e Docker.
+Este repositório organiza um roteiro de estudos da formação **[ATUALIZADO 2025] Profissionalize-se em Java com Spring Boot**, dos fundamentos aos tópicos de deploy com AWS e Docker.
+
+Este repositório contém o roteiro curricular da formação. As aplicações e os exercícios ainda não estão incluídos aqui.
 
 ---
 
@@ -37,11 +39,11 @@ Este repositório contém os projetos e práticas desenvolvidas ao longo da form
 
 ## 💡 Objetivo
 
-Desenvolver aplicações Java modernas, seguras, testáveis e preparadas para nuvem, utilizando o ecossistema completo do Spring Boot.
+Objetivo de estudo: desenvolver aplicações Java com práticas de segurança, testes e preparação para nuvem, utilizando o ecossistema Spring Boot.
 
 ---
 
-## 🌍 Tecnologias e Ferramentas
+## 🌍 Tecnologias e Ferramentas do roteiro
 
 - Java 17+
 - Spring Boot
@@ -61,6 +63,6 @@ Apaixonado por tecnologia, arquitetura de software e soluções escaláveis ☁�
 
 ---
 
-## 📝 Licença
+## 📝 Finalidade educacional
 
 Este repositório é apenas para fins educacionais.
